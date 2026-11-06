@@ -13,7 +13,7 @@ function drawShape(rectangleWidth,rectangleHeight) {
 	rect(xPos,yPos,rectangleWidth,rectangleHeight);
 }
 
-funtion draw() {
+function draw() {
   nofill();
   drawShape(rectWidth,rectHeight);
 }
